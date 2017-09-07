@@ -19,7 +19,9 @@
 def function(n):
     return n + 1
 ```
+![][giraffe]
 
+[giraffe]:http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/South_African_Giraffe,_head.jpg/877px-South_African_Giraffe,_head.jpg "Picture of a Giraffe"
 
 A curated list of data science blogs
 
