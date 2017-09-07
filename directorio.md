@@ -16,8 +16,11 @@
 -------
 
 ```python
+import numpy as np
+import scipy as sc
+
 def function(n):
-    return n + 1
+    return (n + 1) # resultado incremental
 ```
 
 A curated list of data science blogs
