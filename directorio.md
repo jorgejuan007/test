@@ -5,16 +5,27 @@ A curated list of data science blogs
 A Blog From a Human-engineer-being http://www.erogol.com/ [(RSS)] (http://www.erogol.com/feed/)
     
 Aakash Japi http://aakashjapi.com/ [(RSS)] (http://logicx24.github.io/feed.xml)
+
 Advanced Analytics & R http://advanceddataanalytics.net/ [(RSS)] (http://advanceddataanalytics.net/feed/)
+
 Adventures in Data Land http://blog.smola.org [(RSS)] (http://blog.smola.org/rss)
+
 Agile Data Science http://blog.sense.io/ [(RSS)] (http://blog.sense.io/rss/)
+
 Ahmed El Deeb https://medium.com/@D33B [(RSS)] (https://medium.com/feed/@D33B)
+
 Airbnb Data blog http://nerds.airbnb.com/data/ [(RSS)] (http://nerds.airbnb.com/feed/)
-    Alex Perrier http://alexperrier.github.io/ [(RSS)] (http://alexperrier.github.io/feed.xml)
-    Analytics Vidhya http://www.analyticsvidhya.com/blog/ [(RSS)] (http://feeds.feedburner.com/AnalyticsVidhya)
-    Andreas Müller http://peekaboo-vision.blogspot.com/ [(RSS)] (http://peekaboo-vision.blogspot.com/atom.xml)
-    Andrej Karpathy blog http://karpathy.github.io/ [(RSS)] (http://karpathy.github.io/feed.xml)
-    Avi Singh http://avisingh599.github.io/blog/ [(RSS)] (http://avisingh599.github.io/feed.xml)
+
+Alex Perrier http://alexperrier.github.io/ [(RSS)] (http://alexperrier.github.io/feed.xml)
+
+Analytics Vidhya http://www.analyticsvidhya.com/blog/ [(RSS)] (http://feeds.feedburner.com/AnalyticsVidhya)
+
+Andreas Müller http://peekaboo-vision.blogspot.com/ [(RSS)] (http://peekaboo-vision.blogspot.com/atom.xml)
+
+Andrej Karpathy blog http://karpathy.github.io/ [(RSS)] (http://karpathy.github.io/feed.xml)
+
+Avi Singh http://avisingh599.github.io/blog/ [(RSS)] (http://avisingh599.github.io/feed.xml)
+
     Beautiful Data http://beautifuldata.net/ [(RSS)] (http://beautifuldata.net/feed/)
     Beckerfuffle http://mdbecker.github.io/ [(RSS)] (http://mdbecker.github.io/atom.xml)
     Becoming A Data Scientist http://www.becomingadatascientist.com/ [(RSS)] (http://www.becomingadatascientist.com/feed/)
