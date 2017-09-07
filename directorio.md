@@ -6,6 +6,15 @@
 
 -------
 
+|Header|Header|Header|Header|
+|------|------|------|------|
+|Cell  |Cell  |Cell  | Cell |
+|Cell  |Cell  |Cell  | Cell |
+|Cell  |Cell  |Cell  | Cell |
+|Cell  |Cell  |Cell  | Cell |
+
+-------
+
 A curated list of data science blogs
 
 A Blog From a Human-engineer-being http://www.erogol.com/ [(RSS)] (http://www.erogol.com/feed/)
