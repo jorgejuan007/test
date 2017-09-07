@@ -1,4 +1,4 @@
-Data science blogs
+# Data science blogs
 
 A curated list of data science blogs
 
