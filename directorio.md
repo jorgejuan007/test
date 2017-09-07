@@ -1,6 +1,6 @@
 # Data science blogs
 
-$$ /sum x_i $$
+## Lista de Blogs
 
 A curated list of data science blogs
 
